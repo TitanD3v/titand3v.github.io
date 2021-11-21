@@ -215,6 +215,24 @@ Icon: https://titand3v.github.io/depictions/paradise/assets/icon.png
 Name: Paradise
 
 Package: com.titand3v.phoenix
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: TitanD3v <titand3veloper@gmail.com>
+Installed-Size: 2868
+Depends: mobilesubstrate, com.titand3v.libtitand3vuniversal
+Filename: ./debs/com.titand3v.phoenix_1.0_iphoneos-arm.deb
+Size: 1985664
+MD5sum: 6e8458d0bcb15113187c41236dfaef24
+SHA1: fffdecba411ce3862c1f598cd7335cbdd825f7c8
+SHA256: 6d1c783cd13812aa00992e7a3bd81e649d3176e883a1255f80271362160f7c98
+Section: Tweaks
+Description: A redesign of the contact list for the Phone app
+Author: TitanD3v <titand3veloper@gmail.com>
+Depiction: https://titand3v.github.io/depictions/phoenix/index.html
+Icon: https://titand3v.github.io/depictions/phoenix/assets/icon.png
+Name: Phoenix
+
+Package: com.titand3v.phoenix
 Version: 1.1
 Architecture: iphoneos-arm
 Maintainer: TitanD3v <titand3veloper@gmail.com>
