@@ -221,10 +221,10 @@ Maintainer: TitanD3v <titand3veloper@gmail.com>
 Installed-Size: 2868
 Depends: mobilesubstrate, com.titand3v.libtitand3vuniversal
 Filename: ./debs/com.titand3v.phoenix_1.0_iphoneos-arm.deb
-Size: 1985474
-MD5sum: 7f4dce8ed6e1d2a5610ea15dc353e74d
-SHA1: 78240ca7d93f2108861a3c6bdd76223d2cc7859c
-SHA256: ab06aaa7a33f46c7461d4be50fb6a5bfe8038d5577dd27a3b7a7cc7cf9ec0e3d
+Size: 1985442
+MD5sum: f907b4783d34e9264b329f2d7c80c4ed
+SHA1: ee49fc4f017576781befb90e03de3d229f2c2ff9
+SHA256: 72a4a0de342127745a12769967a1b7d4df91f75ea57795bb1448bc2dcd810679
 Section: Tweaks
 Description: A redesign of the contact list for the Phone app
 Author: TitanD3v <titand3veloper@gmail.com>
